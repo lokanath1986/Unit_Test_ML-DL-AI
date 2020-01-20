@@ -48,7 +48,7 @@ if __name__ == '__main__':
    unittest.main()
 
 
-***Outcomes Possible : ***
+***Outcomes Possible :***
 
 There are three types of possible test outcomes :
 
@@ -68,7 +68,7 @@ This statement is used to check if the result obtained is equal to the expected 
 
 This statement is used to verify if a given statement is true or false.
 
-***assertRaises() – ***
+***assertRaises() –***
 
 This statement is used to raise a specific exception.
 
